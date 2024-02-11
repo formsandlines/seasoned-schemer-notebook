@@ -1,0 +1,8 @@
+#+title: Commandments
+
+
+* The Eleventh Commandment
+/(first version from [[file:cpt11.rkt][Chapter 11]])/
+
+Use /additional arguments/ when a function *needs to know* what other arguments to
+the function have been like so far.
